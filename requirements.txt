@@ -1,0 +1,6 @@
+kubernetes==6.0.0b1
+uuid==1.30
+Flask==0.12.1
+Jinja2==2.9.6
+MarkupSafe==1.0
+Werkzeug==0.12.1
